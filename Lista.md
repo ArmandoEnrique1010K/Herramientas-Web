@@ -20,7 +20,7 @@ Espero que esta lista de herramientas web que he recopilado te ayude de alguna f
 
 [Y2Mate](https://y2mate.nu/en-FzLi/)
 
-### Convertir documento de la págin de Script a PDF
+### Convertir documento de la página de Script a PDF
 
 [DocDownloader](https://docdownloader.com/)
 
@@ -93,6 +93,42 @@ Espero que esta lista de herramientas web que he recopilado te ayude de alguna f
 ### Sprites de videojuegos
 
 [The spriters Resource](https://www.spriters-resource.com/)
+
+---
+
+## Diseño web
+
+<img title="" src="https://arrobasystem.com/cdn/shop/articles/diseno-web-todo-lo-que-debes-saber_960x502_crop_center.jpg?v=1598655949960w" alt="Diseño web: Todo lo que debes saber | Arroba System" width="502" data-align="center">
+
+## Iconos
+
+[Tabler icons](https://tablericons.com/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[Flaticon](https://www.flaticon.es/)
+
+[Favicon generator](https://www.favicon-generator.org/)
+
+[Brandcolors](https://brandcolors.net/)
+
+## Emojis
+
+[Emojipedia](https://emojipedia.org/)
+
+## Fuentes de texto
+
+[DaFont](https://www.dafont.com/es/)
+
+[Fonts Google](https://fonts.google.com/)
+
+### Normalizar estilos CSS
+
+[Normalize.css](https://necolas.github.io/normalize.css/)
+
+## Herramientas para generar CSS
+
+[CSSmatic](https://www.cssmatic.com/)
 
 ---
 
