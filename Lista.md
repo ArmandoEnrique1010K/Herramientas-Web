@@ -210,6 +210,6 @@ https://caniuse.com/
 
 [Can I use?](https://caniuse.com/)
 
-### Patrones en el atributo pattern de un elemento <input>
+### Patrones en el atributo pattern de un elemento input
 
 [input Pattern](https://input-pattern.com/en/tutorial.php)
