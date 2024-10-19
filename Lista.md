@@ -88,21 +88,7 @@ Espero que esta lista de herramientas web que he recopilado te ayude de alguna f
 
 ---
 
-## Matematicas## Codigos UTF - 8
-
-[HTML Standard](https://html.spec.whatwg.org/multipage/named-characters.html)
-
-## Validar etiquetas HTML
-
-https://validator.w3.org/
-
-## Puedo usar cierta etiqueta HTML
-
-https://caniuse.com/
-
-## Patrones de elementos input HTML
-
-[input - Pattern tutorial](https://input-pattern.com/en/tutorial.php)
+## Matematicas
 
 <img title="" src="https://www.tec.ac.cr/hoyeneltec/sites/default/files/styles/colorbox/public/media/img/main/2_imagenes_nota_geogebra-01.png" alt="GeoGebra: un software para favorecer la enseñanza de las matemáticas | Hoy  en el TEC" width="473" data-align="left">
 
