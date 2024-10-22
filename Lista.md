@@ -124,6 +124,8 @@ Espero que esta lista de herramientas web que he recopilado te ayude de alguna f
 
 [Dog API - Dogs photos](https://dog.ceo/dog-api/)
 
+[Rick and Morty API](https://rickandmortyapi.com/documentation/)
+
 ### Sprites de videojuegos
 
 [The spriters Resource](https://www.spriters-resource.com/)
