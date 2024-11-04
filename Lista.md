@@ -215,3 +215,15 @@ Espero que esta lista de herramientas web que he recopilado te ayude de alguna f
 ### Patrones en el atributo pattern de un elemento input
 
 [input Pattern](https://input-pattern.com/en/tutorial.php)
+
+## Acceso directo a una pagina web
+
+
+
+## El comando wget
+
+- 
+
+```powershell
+wget --mirror --convert-links --html-extension --page-requisites --no-parent https://docs.spring.io/spring-boot/docs/3.1.3/reference/html/
+```
